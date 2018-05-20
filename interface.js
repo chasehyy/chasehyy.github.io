@@ -363,7 +363,7 @@ abi=[
 	}
 ]
 
-contractAddress="#"
+contractAddress="0x7f9433949f2cbbC6421f1F496D689837be35934e"
 
 function buyEggs(eth,callback){
     var contractAbi = web3.eth.contract(abi);
